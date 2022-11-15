@@ -1,0 +1,12 @@
+.p-article {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 3.2rem 2.4rem;
+}
+
+.p-article__wrapper {
+  width: calc(50% - 1.2rem);
+}

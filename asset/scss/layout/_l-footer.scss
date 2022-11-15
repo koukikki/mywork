@@ -1,0 +1,20 @@
+.l-footer {
+  width: 100vw;
+}
+
+.l-footer_inner {
+  background-color: $color-globalFooter-background;
+  min-height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.l-footer_content {
+  text-align: center;
+}
+
+.l-footer_copy {
+  color: $color-globalFooter-color;
+  font-size: 1.4rem;
+}
